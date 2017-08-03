@@ -6498,6 +6498,7 @@ address p {
 /*==============================================
  Scroll Top
  ===============================================*/
+/*
 .lift-off {
     position: fixed;
     right: 20px;
@@ -6526,6 +6527,7 @@ address p {
             transform: translateY(40px); 
     opacity: 0;
 }
+*/
 
 /*==============================================
  Background Images
